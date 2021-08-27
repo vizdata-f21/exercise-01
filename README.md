@@ -5,7 +5,7 @@ The goals of this exercise are:
 1. Help you configure GitHub authentication
 2. Get your data visualization juices flowing
 
-## GitHub authentication
+## 1. GitHub authentication
 
 Begin by creating a public private key pair using the `credentials` package, run the following line in the RStudio Console:
 
@@ -115,3 +115,7 @@ You can now test that the SSH authentication is working by attempting to clone a
     will be using, e.g. OIT container, stat server, your laptop, etc.
     The process is quick and GitHub supports the addition of multiple
     public keys.
+
+## 2. Visualizing Duke lemurs
+
+Go to https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-08-24/readme.md and ...
