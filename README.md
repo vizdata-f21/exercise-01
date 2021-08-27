@@ -118,4 +118,16 @@ You can now test that the SSH authentication is working by attempting to clone a
 
 ## 2. Visualizing Duke lemurs
 
-Go to https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-08-24/readme.md and ...
+Create a data visualization using data on Duke lemurs from this week's TidyTuesday.
+
+You can find the data description [here](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-08-24/readme.md).
+
+Your code should go in `exercise-01.Rmd`.
+Commit and push your progress regularly to the GitHub repository.
+This will be a good test for having completed the configuration from the previous part as well.
+
+Once you have a visualization you're happy with, provide a brief interpretation for it.
+This can be just a few sentences or a brief paragraph.
+
+The only guideline for the visualization is that it should involve more than three variables.
+Feel free to discuss ideas with others around you.

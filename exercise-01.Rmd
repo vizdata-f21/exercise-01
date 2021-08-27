@@ -1,0 +1,20 @@
+---
+title: "Exercise 01 - Lemurs"
+author: "INSERT YOUR NAME HERE"
+output: github_document
+---
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+```
+
+```{r load-data, message = FALSE}
+lemurs <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-08-24/lemur_data.csv')
+```
+
+```{r label-me}
+# add code for creating your data visualization here
+# add additional chunks as needed
+# don't forget to label your chunks
+```
+
