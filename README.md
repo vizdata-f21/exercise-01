@@ -47,17 +47,17 @@ You will then be prompted to enter this public key to GitHub, via the provided l
 
 If you are not logged into GitHub the website will ask you to do so, once logged in you should see the following form:
 
-<img src="figures/github_ssh.png" width="100%" />
+<img src="images/github_ssh.png" width="100%" />
 
-You should enter a meaningful name for the key and then copy and paste the entire public key
+You should enter a meaningful name for the key and then copy and paste the entire public key.
 
-<img src="figures/github_ssh2.png" width="100%" />
+<img src="images/github_ssh2.png" width="100%" />
 
 Once finished, you can click the green Add SSH key button. This key should now show in the list of GitHub SSH keys on <https://github.com/settings/keys>.
 
 You can now test that the SSH authentication is working by attempting to clone a private repository (make sure to select the SSH url and not HTTPS).
 
-<img src="figures/github_ssh3.png" width="100%" />
+<img src="images/github_ssh3.png" width="100%" />
 
 ### Frequently Asked Questions
 
