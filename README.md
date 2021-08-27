@@ -131,3 +131,8 @@ This can be just a few sentences or a brief paragraph.
 
 The only guideline for the visualization is that it should involve more than three variables.
 Feel free to discuss ideas with others around you.
+
+When done, check that the document `exercise-01.md` has everything you intended, including your plot.
+If it's missing, you might have forgotten to commit and push the image file containing the plot.
+Go back to RStudio and make sure you've committed all changed files in the Git pane and pushed them.
+Then, go back to GitHub to confirm again.
