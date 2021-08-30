@@ -5,6 +5,11 @@ The goals of this exercise are:
 1. Help you configure GitHub authentication
 2. Get your data visualization juices flowing
 
+To complete this exercise, and all future work in R associated with this course, go to https://cmgr.oit.duke.edu/containers and log in with your Duke credentials.
+If you haven't yet done so, reserve a container for STA 313 by on the *Reservations available* menu on the right.
+You only need to do this once, and when you do, you’ll see this container moved to the *My reservations* menu on the left.
+Next, click on STA313 under *My reservations* to access the RStudio instance you’ll use for the course.
+
 ## 1. GitHub authentication
 
 Begin by creating a public private key pair using the `credentials` package, run the following line in the RStudio Console:
